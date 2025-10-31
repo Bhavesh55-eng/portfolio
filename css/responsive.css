@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+  }
+  .hero-image img {
+    margin-top: 25px;
+    width: 250px;
+  }
+  .navbar {
+    flex-direction: column;
+  }
+  .nav-links {
+    flex-direction: column;
+    gap: 15px;
+  }
+}
